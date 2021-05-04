@@ -249,13 +249,5 @@ Window {
     }
 
     VPNSystemAlert {
-        id: alertBox
-
-        z: 2
     }
-
-    VPNSurveyAlert {
-        z: 2
-    }
-
 }
